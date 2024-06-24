@@ -1,0 +1,16 @@
+a0cc9745898346f44b70090980b32533 *DESCRIPTION
+019852908e44ad343cd90796bf930cb3 *NAMESPACE
+11d19ff6378ae6f0caa5433c90d49c1b *R/gl.drop.sexlinked.r
+823ae54d2156de273d94272812a99b10 *R/gl.infer.sex.r
+d248c4f7134f79c1b141e04ba164c2f2 *R/gl.keep.sexlinked.r
+ca17854759be04d4445a31724cdb6b0a *R/gl.report.sexlinked.r
+bdd407793ed51aad86617509e6cca0e3 *R/zzz.r
+1ab7e6384938ba700af4c106d94083f3 *inst/CITATION
+fb8af50fb484b63ef8ad8c7d787af8c3 *man/figures/Figure_1.png
+dbfac53841f3d8e5d06be061923add3d *man/figures/dartR-logo.png
+8cc727e736a9ba1a69a3b2278011d689 *man/figures/institutions.png
+2cda080548ae00048599550dd218ea00 *man/gl.drop.sexlinked.Rd
+1656b9a30f106ada77213599fbaabfb1 *man/gl.infer.sex.Rd
+96a98e8638c0432241ff15db34f6e5b0 *man/gl.keep.sexlinked.Rd
+34ef9e0693fa220f8bbc318877872fff *man/gl.report.sexlinked.Rd
+72cb92e5330547779ff0ea28fdd4d14b *man/zzz.Rd
